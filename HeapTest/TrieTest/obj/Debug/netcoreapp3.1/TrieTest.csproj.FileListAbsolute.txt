@@ -1,0 +1,14 @@
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\bin\Debug\netcoreapp3.1\TrieTest.exe
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\bin\Debug\netcoreapp3.1\TrieTest.deps.json
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\bin\Debug\netcoreapp3.1\TrieTest.runtimeconfig.json
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\bin\Debug\netcoreapp3.1\TrieTest.runtimeconfig.dev.json
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\bin\Debug\netcoreapp3.1\TrieTest.dll
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\bin\Debug\netcoreapp3.1\TrieTest.pdb
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\obj\Debug\netcoreapp3.1\TrieTest.csproj.AssemblyReference.cache
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\obj\Debug\netcoreapp3.1\TrieTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\obj\Debug\netcoreapp3.1\TrieTest.AssemblyInfoInputs.cache
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\obj\Debug\netcoreapp3.1\TrieTest.AssemblyInfo.cs
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\obj\Debug\netcoreapp3.1\TrieTest.csproj.CoreCompileInputs.cache
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\obj\Debug\netcoreapp3.1\TrieTest.dll
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\obj\Debug\netcoreapp3.1\TrieTest.pdb
+C:\Users\itsupport\source\repos\HeapTest\TrieTest\obj\Debug\netcoreapp3.1\TrieTest.genruntimeconfig.cache

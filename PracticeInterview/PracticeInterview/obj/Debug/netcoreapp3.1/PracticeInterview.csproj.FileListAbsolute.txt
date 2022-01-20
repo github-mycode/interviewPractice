@@ -1,0 +1,14 @@
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\bin\Debug\netcoreapp3.1\PracticeInterview.exe
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\bin\Debug\netcoreapp3.1\PracticeInterview.deps.json
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\bin\Debug\netcoreapp3.1\PracticeInterview.runtimeconfig.json
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\bin\Debug\netcoreapp3.1\PracticeInterview.runtimeconfig.dev.json
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\bin\Debug\netcoreapp3.1\PracticeInterview.dll
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\bin\Debug\netcoreapp3.1\PracticeInterview.pdb
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\obj\Debug\netcoreapp3.1\PracticeInterview.csproj.AssemblyReference.cache
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\obj\Debug\netcoreapp3.1\PracticeInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\obj\Debug\netcoreapp3.1\PracticeInterview.AssemblyInfoInputs.cache
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\obj\Debug\netcoreapp3.1\PracticeInterview.AssemblyInfo.cs
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\obj\Debug\netcoreapp3.1\PracticeInterview.csproj.CoreCompileInputs.cache
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\obj\Debug\netcoreapp3.1\PracticeInterview.dll
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\obj\Debug\netcoreapp3.1\PracticeInterview.pdb
+C:\Users\itsupport\source\repos\PracticeInterview\PracticeInterview\obj\Debug\netcoreapp3.1\PracticeInterview.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\bin\Debug\netcoreapp3.1\DunamicPrograming.exe
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\bin\Debug\netcoreapp3.1\DunamicPrograming.deps.json
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\bin\Debug\netcoreapp3.1\DunamicPrograming.runtimeconfig.json
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\bin\Debug\netcoreapp3.1\DunamicPrograming.runtimeconfig.dev.json
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\bin\Debug\netcoreapp3.1\DunamicPrograming.dll
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\bin\Debug\netcoreapp3.1\DunamicPrograming.pdb
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\obj\Debug\netcoreapp3.1\DunamicPrograming.csproj.AssemblyReference.cache
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\obj\Debug\netcoreapp3.1\DunamicPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\obj\Debug\netcoreapp3.1\DunamicPrograming.AssemblyInfoInputs.cache
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\obj\Debug\netcoreapp3.1\DunamicPrograming.AssemblyInfo.cs
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\obj\Debug\netcoreapp3.1\DunamicPrograming.csproj.CoreCompileInputs.cache
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\obj\Debug\netcoreapp3.1\DunamicPrograming.dll
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\obj\Debug\netcoreapp3.1\DunamicPrograming.pdb
+C:\Users\itsupport\source\repos\DunamicPrograming\DunamicPrograming\obj\Debug\netcoreapp3.1\DunamicPrograming.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\bin\Debug\netcoreapp3.1\IshantMicrosoft.exe
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\bin\Debug\netcoreapp3.1\IshantMicrosoft.deps.json
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\bin\Debug\netcoreapp3.1\IshantMicrosoft.runtimeconfig.json
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\bin\Debug\netcoreapp3.1\IshantMicrosoft.runtimeconfig.dev.json
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\bin\Debug\netcoreapp3.1\IshantMicrosoft.dll
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\bin\Debug\netcoreapp3.1\IshantMicrosoft.pdb
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\obj\Debug\netcoreapp3.1\IshantMicrosoft.csproj.AssemblyReference.cache
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\obj\Debug\netcoreapp3.1\IshantMicrosoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\obj\Debug\netcoreapp3.1\IshantMicrosoft.AssemblyInfoInputs.cache
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\obj\Debug\netcoreapp3.1\IshantMicrosoft.AssemblyInfo.cs
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\obj\Debug\netcoreapp3.1\IshantMicrosoft.csproj.CoreCompileInputs.cache
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\obj\Debug\netcoreapp3.1\IshantMicrosoft.dll
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\obj\Debug\netcoreapp3.1\IshantMicrosoft.pdb
+C:\Users\itsupport\source\repos\IshantMicrosoft\IshantMicrosoft\obj\Debug\netcoreapp3.1\IshantMicrosoft.genruntimeconfig.cache

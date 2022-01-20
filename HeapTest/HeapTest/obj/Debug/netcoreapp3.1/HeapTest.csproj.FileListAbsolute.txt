@@ -1,0 +1,14 @@
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\bin\Debug\netcoreapp3.1\HeapTest.exe
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\bin\Debug\netcoreapp3.1\HeapTest.deps.json
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\bin\Debug\netcoreapp3.1\HeapTest.runtimeconfig.json
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\bin\Debug\netcoreapp3.1\HeapTest.runtimeconfig.dev.json
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\bin\Debug\netcoreapp3.1\HeapTest.dll
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\bin\Debug\netcoreapp3.1\HeapTest.pdb
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\obj\Debug\netcoreapp3.1\HeapTest.csproj.AssemblyReference.cache
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\obj\Debug\netcoreapp3.1\HeapTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\obj\Debug\netcoreapp3.1\HeapTest.AssemblyInfoInputs.cache
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\obj\Debug\netcoreapp3.1\HeapTest.AssemblyInfo.cs
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\obj\Debug\netcoreapp3.1\HeapTest.csproj.CoreCompileInputs.cache
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\obj\Debug\netcoreapp3.1\HeapTest.dll
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\obj\Debug\netcoreapp3.1\HeapTest.pdb
+C:\Users\itsupport\source\repos\HeapTest\HeapTest\obj\Debug\netcoreapp3.1\HeapTest.genruntimeconfig.cache

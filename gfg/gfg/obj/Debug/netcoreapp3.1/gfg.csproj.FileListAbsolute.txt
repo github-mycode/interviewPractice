@@ -1,0 +1,14 @@
+C:\Users\itsupport\source\repos\gfg\gfg\bin\Debug\netcoreapp3.1\gfg.exe
+C:\Users\itsupport\source\repos\gfg\gfg\bin\Debug\netcoreapp3.1\gfg.deps.json
+C:\Users\itsupport\source\repos\gfg\gfg\bin\Debug\netcoreapp3.1\gfg.runtimeconfig.json
+C:\Users\itsupport\source\repos\gfg\gfg\bin\Debug\netcoreapp3.1\gfg.runtimeconfig.dev.json
+C:\Users\itsupport\source\repos\gfg\gfg\bin\Debug\netcoreapp3.1\gfg.dll
+C:\Users\itsupport\source\repos\gfg\gfg\bin\Debug\netcoreapp3.1\gfg.pdb
+C:\Users\itsupport\source\repos\gfg\gfg\obj\Debug\netcoreapp3.1\gfg.csproj.AssemblyReference.cache
+C:\Users\itsupport\source\repos\gfg\gfg\obj\Debug\netcoreapp3.1\gfg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsupport\source\repos\gfg\gfg\obj\Debug\netcoreapp3.1\gfg.AssemblyInfoInputs.cache
+C:\Users\itsupport\source\repos\gfg\gfg\obj\Debug\netcoreapp3.1\gfg.AssemblyInfo.cs
+C:\Users\itsupport\source\repos\gfg\gfg\obj\Debug\netcoreapp3.1\gfg.csproj.CoreCompileInputs.cache
+C:\Users\itsupport\source\repos\gfg\gfg\obj\Debug\netcoreapp3.1\gfg.dll
+C:\Users\itsupport\source\repos\gfg\gfg\obj\Debug\netcoreapp3.1\gfg.pdb
+C:\Users\itsupport\source\repos\gfg\gfg\obj\Debug\netcoreapp3.1\gfg.genruntimeconfig.cache
